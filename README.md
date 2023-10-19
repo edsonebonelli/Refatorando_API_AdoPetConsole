@@ -5,13 +5,13 @@
 
 ### O problema da API
 
-O problema detectado ao analisar a API é que a versão original dela é composta por apenas uma única classe chamada AdoPetConsoleApplication
-dentro do caminho de pastas, então todo seu funcionamento está somente dentro de um arquivo main().
+> O problema detectado ao analisar a API é que a versão original dela é composta por apenas uma única classe chamada AdoPetConsoleApplication
+> dentro do caminho de pastas, então todo seu funcionamento está somente dentro de um arquivo main().
 
 ### Ajustes e melhorias
 
-O objetivo desse projeto é separar todas as funções em métodos para diminuir o código da função main()
-e deixar a responsabilidade e comportamento em métodos separados.
+> O objetivo desse projeto é separar todas as funções em métodos para diminuir o código da função main()
+> e deixar a responsabilidade e comportamento em métodos separados.
 
 ### O trabalho consiste nas seguintes etapas
 
